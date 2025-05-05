@@ -1,19 +1,16 @@
-# TopicSearch - Frontend Coding Round
+# Topic Search Component 🚀
 
-## Overview
-This is a simple React component named `TopicSearch` that lets users filter through a list of topics by typing into a search bar.
+## Introduction 💡
+This is a simple React component that displays a list of topics and allows filtering by search input. It simulates the Topic browsing UI for the Catalogue Management System.
 
-## Features
-- Case-insensitive search by topic name
-- Responsive and clean UI using inline CSS
-- Graceful handling of no results
+## Features ✨
+- Displays a search input field and a list of topics with name and category.
+- Filters the topics based on the input (case-insensitive).
+- Shows "No topics found" if no topics match the input.
+- Handles empty input gracefully.
 
-## Setup Instructions
-
-1. Clone or download this project.
-2. Make sure Node.js and npm are installed on your system.
-3. Run the following commands:
-
-```bash
-npm install
-npm start
+## How to Run the Code 🏃‍♂️
+1. Clone this repository:
+   ```bash
+   git clone <repo-url>
+   cd <repo-folder>
