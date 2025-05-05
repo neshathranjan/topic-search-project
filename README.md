@@ -8,6 +8,8 @@ This is a simple React component that displays a list of topics and allows filte
 - Filters the topics based on the input (case-insensitive).
 - Shows "No topics found" if no topics match the input.
 - Handles empty input gracefully.
+  # Repo Link: [Click to See](https://github.com/neshathranjan/topic-search-project)
+
 ## How to Run the Code 🏃‍♂️
 1. Clone this repository:
    ```bash
