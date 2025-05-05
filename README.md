@@ -8,6 +8,15 @@ This is a simple React component that displays a list of topics and allows filte
 - Filters the topics based on the input (case-insensitive).
 - Shows "No topics found" if no topics match the input.
 - Handles empty input gracefully.
+## How to create a react app
+Open a terminal inside TopicSearchProject/
+
+Run:
+
+```bash
+npx create-react-app .
+# Then replace src/App.js and src/index.js with the files above
+npm start
 
 ## How to Run the Code 🏃‍♂️
 1. Clone this repository:
