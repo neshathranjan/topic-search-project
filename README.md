@@ -17,7 +17,8 @@ This is a simple React component that displays a list of topics and allows filte
    cd <repo-folder>
 2. Install dependencies:
     ```bash
-    npm install
+    npx create-react-app topicsearchproject
+    # Then replace src/App.js and src/index.js with the files above 
 3. Start the development server:
     ```bash
     npm start
