@@ -14,3 +14,9 @@ This is a simple React component that displays a list of topics and allows filte
    ```bash
    git clone <repo-url>
    cd <repo-folder>
+2. Install dependencies:
+    ```bash
+    npm install
+3. Start the development server:
+    ```bash
+    npm start
